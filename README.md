@@ -77,9 +77,7 @@ flight-simulator/
 
 ---
 
-### 🔽 רוצה שאשלח לך גם את הקובץ עצמו להורדה (`README.md`)?
-
-או שנכין גם **קובץ הסבר באנגלית** + גרסה מודפסת להגשה?
+#
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
